@@ -1083,3 +1083,10 @@ h5 {
   background-color: var(--bs-primary);
   color: var(--bs-light);
 }
+
+/*Custom styles*/
+
+.logo {
+    max-width: 150px; /* Adjust the value as needed */
+    height: auto;
+}
